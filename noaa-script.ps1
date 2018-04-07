@@ -16,6 +16,7 @@
 ##
 ## updated:
 ##      2017-04-10 original version 
+##      2018-04-07 pulled onto new client/servergit --version
 ##
 ## todo:
 ##      fix the case where, in January, we are looking back into a prior year
