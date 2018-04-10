@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<noaaScript>
+    <noaaCredentialsFile>credentials.txt</noaaCredentialsFile>
+    <noaaServerName>aftp.cmdl.noaa.gov</noaaServerName>
+    <noaaFtp>ftp://aftp.cmdl.noaa.gov</noaaFtp>
+    <noaaUserName>anonymous</noaaUserName>
+    <noaaRemoteDirectory>data/radiation/surfrad/Boulder_CO</noaaRemoteDirectory>
+    <datFolder>C:\data\noaa\</datFolder>
+</noaaScript>
+<!-- Memo to Operator - ftp password is in the $MyDir directory in credentials.txt -->
+<!--   see https://blogs.technet.microsoft.com/robcost/2008/05/01/powershell-tip-storing-and-using-password-credentials/ -->
